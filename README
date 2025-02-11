@@ -1,0 +1,18 @@
+# Plant Counting Using Python
+
+This project implements a plant counting solution using Python. 
+1.  Using OpenCV techniques (color segmentation, morphology, and contour detection) to count plants in an image.
+
+## Features
+-  Apply color thresholding and contour detection using OpenCV.
+- Easy conversion from GeoTIFF to JPEG (external conversion done).
+## Requirements
+-python 3.6 recomemended
+ The following packages are required:
+- pip install opencv-python
+- pip install torch torchvision
+- pip install numpy
+- pip install Pillow
+
+
+
